@@ -58,15 +58,11 @@ The dataset contains demographic attributes along with spending behavior, making
 
 ##  Repository Structure
 customer-demographic-segmentation-analysis/
-│
-├── data/
-│   └── customer_segmentation.csv
-├── notebooks/
-│   └── customer_analysis.ipynb
-├── visuals/
-│   └── age_group_spending.png
-├── README.md
-└── requirements.txt
+  customer_segmentation.csv
+  customer_analysis.ipynb
+  age_group_spending.png
+  README.md
 
 ##  Conclusion
 This project demonstrates how customer demographic analysis combined with descriptive statistics can uncover meaningful customer segments and support informed business strategies.
+
